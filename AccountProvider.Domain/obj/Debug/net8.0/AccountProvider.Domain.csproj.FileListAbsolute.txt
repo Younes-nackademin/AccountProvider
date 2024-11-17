@@ -1,0 +1,11 @@
+C:\Users\youne\source\repos\AccountProvider\AccountProvider.Domain\bin\Debug\net8.0\AccountProvider.Domain.deps.json
+C:\Users\youne\source\repos\AccountProvider\AccountProvider.Domain\bin\Debug\net8.0\AccountProvider.Domain.dll
+C:\Users\youne\source\repos\AccountProvider\AccountProvider.Domain\bin\Debug\net8.0\AccountProvider.Domain.pdb
+C:\Users\youne\source\repos\AccountProvider\AccountProvider.Domain\obj\Debug\net8.0\AccountProvider.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\youne\source\repos\AccountProvider\AccountProvider.Domain\obj\Debug\net8.0\AccountProvider.Domain.AssemblyInfoInputs.cache
+C:\Users\youne\source\repos\AccountProvider\AccountProvider.Domain\obj\Debug\net8.0\AccountProvider.Domain.AssemblyInfo.cs
+C:\Users\youne\source\repos\AccountProvider\AccountProvider.Domain\obj\Debug\net8.0\AccountProvider.Domain.csproj.CoreCompileInputs.cache
+C:\Users\youne\source\repos\AccountProvider\AccountProvider.Domain\obj\Debug\net8.0\AccountProvider.Domain.dll
+C:\Users\youne\source\repos\AccountProvider\AccountProvider.Domain\obj\Debug\net8.0\refint\AccountProvider.Domain.dll
+C:\Users\youne\source\repos\AccountProvider\AccountProvider.Domain\obj\Debug\net8.0\AccountProvider.Domain.pdb
+C:\Users\youne\source\repos\AccountProvider\AccountProvider.Domain\obj\Debug\net8.0\ref\AccountProvider.Domain.dll

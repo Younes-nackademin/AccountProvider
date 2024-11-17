@@ -1,0 +1,17 @@
+C:\Users\youne\source\repos\AccountProvider\AccountProvider.Data\bin\Debug\net8.0\AccountProvider.Data.deps.json
+C:\Users\youne\source\repos\AccountProvider\AccountProvider.Data\bin\Debug\net8.0\AccountProvider.Data.runtimeconfig.json
+C:\Users\youne\source\repos\AccountProvider\AccountProvider.Data\bin\Debug\net8.0\AccountProvider.Data.dll
+C:\Users\youne\source\repos\AccountProvider\AccountProvider.Data\bin\Debug\net8.0\AccountProvider.Data.pdb
+C:\Users\youne\source\repos\AccountProvider\AccountProvider.Data\bin\Debug\net8.0\AccountProvider.Domain.dll
+C:\Users\youne\source\repos\AccountProvider\AccountProvider.Data\bin\Debug\net8.0\AccountProvider.Domain.pdb
+C:\Users\youne\source\repos\AccountProvider\AccountProvider.Data\obj\Debug\net8.0\AccountProvider.Data.csproj.AssemblyReference.cache
+C:\Users\youne\source\repos\AccountProvider\AccountProvider.Data\obj\Debug\net8.0\AccountProvider.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\youne\source\repos\AccountProvider\AccountProvider.Data\obj\Debug\net8.0\AccountProvider.Data.AssemblyInfoInputs.cache
+C:\Users\youne\source\repos\AccountProvider\AccountProvider.Data\obj\Debug\net8.0\AccountProvider.Data.AssemblyInfo.cs
+C:\Users\youne\source\repos\AccountProvider\AccountProvider.Data\obj\Debug\net8.0\AccountProvider.Data.csproj.CoreCompileInputs.cache
+C:\Users\youne\source\repos\AccountProvider\AccountProvider.Data\obj\Debug\net8.0\AccountP.9042CD53.Up2Date
+C:\Users\youne\source\repos\AccountProvider\AccountProvider.Data\obj\Debug\net8.0\AccountProvider.Data.dll
+C:\Users\youne\source\repos\AccountProvider\AccountProvider.Data\obj\Debug\net8.0\refint\AccountProvider.Data.dll
+C:\Users\youne\source\repos\AccountProvider\AccountProvider.Data\obj\Debug\net8.0\AccountProvider.Data.pdb
+C:\Users\youne\source\repos\AccountProvider\AccountProvider.Data\obj\Debug\net8.0\AccountProvider.Data.genruntimeconfig.cache
+C:\Users\youne\source\repos\AccountProvider\AccountProvider.Data\obj\Debug\net8.0\ref\AccountProvider.Data.dll
